@@ -1,0 +1,6 @@
+dist/*.apk
+dist/*.idsig
+.signing/
+build/
+__pycache__/
+*.pyc
